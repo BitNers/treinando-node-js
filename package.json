@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "treinando-js",
+  "description": "Aprendendo os Conceitos Core e API Nativas.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitNers/treinando-node-js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "mongodb",
+    "url",
+    "crypto",
+    "udp"
+  ],
+  "author": "Wesley Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BitNers/treinando-node-js/issues"
+  },
+  "homepage": "https://github.com/BitNers/treinando-node-js#readme"
+}
