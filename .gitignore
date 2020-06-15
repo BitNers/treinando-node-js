@@ -3,3 +3,4 @@
 ## Não faz sentido subir esta pasta, pois podemos instalar as dependências pelo package.json.
 
 node_modules/
+file.txt
