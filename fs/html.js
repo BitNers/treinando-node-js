@@ -14,6 +14,7 @@ readFile('index.html',(err,data)=>{
 
 const server = http.createServer((req,res)=>{
     res.statusCode = 200;
+    // res.setHeader('Content-Type','text/plain') => Irá ler apenas em modo texto plano
     res.setHeader('Content-Type','text/html')
     res.end(cont)
 })
