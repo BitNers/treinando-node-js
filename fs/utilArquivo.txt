@@ -1,0 +1,1 @@
+Criando arquivo utilizando o Promisify da API nativa.
