@@ -1,0 +1,32 @@
+### 
+GET http://localhost:3000
+###
+POST http://localhost:3000
+
+###
+PUT http://localhost:3000
+
+###
+DELETE http://localhost:3000
+
+###
+PATCH http://localhost:3000
+
+
+### 
+GET http://localhost:3000/admin
+###
+POST http://localhost:3000/admin
+
+###
+PUT http://localhost:3000/admin
+
+###
+DELETE http://localhost:3000/admin
+
+###
+PATCH http://localhost:3000/admin
+
+
+###
+GET http://localhost:3000/*
